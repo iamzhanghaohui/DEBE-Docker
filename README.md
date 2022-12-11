@@ -1,6 +1,6 @@
 # Introduction
 
-该仓库是深圳大学计算机前沿技术课程，目标是复现前沿工作，该仓库复现的是
+该仓库是深圳大学[计算机前沿技术课程](https://csse.szu.edu.cn/courses/AdvTech2022/)的作业提交仓库，目标是复现前沿工作，该仓库复现的是
 Zuoru Yang, Jingwei Li, and Patrick P. C. Lee. [Secure and Lightweight Deduplicated Storage via Shielded Deduplication-Before-Encryption](http://www.cse.cuhk.edu.hk/~pclee/www/pubs/atc22.pdf) USENIX ATC 2022. 提供了更加方便的docker容器启动方式。
 源代码地址为[DEBE](https://github.com/yzr95924/DEBE)
 # Prerequisites
